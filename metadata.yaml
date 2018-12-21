@@ -1,5 +1,8 @@
 _repo: L-Atelier-de-Marie-Claire_58501
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58501-h/images/cover.jpg
 creator:
   author:
     agent_name: Audoux, Marguerite
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9397
     wikipedia: http://en.wikipedia.org/wiki/Marguerite_Audoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58501#L-Atelier-de-Marie-Claire
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
